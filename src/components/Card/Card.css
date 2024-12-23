@@ -1,0 +1,35 @@
+.card {
+  background-color: white;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  background-color: #ebebeb;
+   padding: 16px;
+  border-bottom: 1px solid #ddd;
+
+}
+
+.card-title  {
+   margin: -10px;
+  color: #333;
+  font-size: medium;
+
+}
+
+.card-icon {
+  color: #a0a0a0;
+  font-size: 20px;
+}
+
+.card-content{
+  padding: 20px;
+}
+
+
